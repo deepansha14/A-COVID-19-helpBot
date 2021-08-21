@@ -1,0 +1,323 @@
+{"intents": [
+        {"tag": "What is a coronavirus?",
+         "patterns": ["What is a coronavirus"],
+         "responses": ["Coronaviruses are a large family of viruses which may cause illness in animals or humans.  In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19."],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "Bye", "leaving"],
+         "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+         "context_set": ""
+        },
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "It's nice to meet you"],
+         "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "What is COVID-19?",
+         "patterns": ["What is covid 19"],
+         "responses": ["COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019."],
+         "context_set": ""
+        },
+        {"tag": "What are the symptoms of COVID 19?",
+         "patterns": ["symptoms of covid 19", "symptoms of coronavirus", "covid 19 symptoms", "coronavirus symptoms"],
+         "responses": ["The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually. Some people become infected but donâ€™t develop any symptoms and don't feel unwell. Most people (about 80%) recover from the disease without needing special treatment. Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention."],
+         "context_set": ""
+        },
+        {"tag": "How does COVID 19 spread?",
+         "patterns": ["How does COVID 19 spread", "How does coronavirus spread"],
+         "responses": ["People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick.WHO is assessing ongoing research on the ways COVID-19 is spread and will continue to share updated findings."],
+         "context_set": ""
+        },
+        {"tag": "What can I do to protect myself and prevent the spread of disease?",
+         "patterns": ["What can I do to protect myself and prevent the spread of disease", "Protection measures for everyone", "prevent the spread of disease"],
+         "responses": ["Stay aware of the latest information on the COVID-19 outbreak, available on the WHO website and through your national and local public health authority. Many countries around the world have seen cases of COVID-19 and several have seen outbreaks. Authorities in China and some other countries have succeeded in slowing or stopping their outbreaks. However, the situation is unpredictable so check regularly for the latest news.You can reduce your chances of being infected or spreading COVID-19 by taking some simple precautions:Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.Why? Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands.Maintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing.Why? When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease.Avoid touching eyes, nose and mouth.Why? Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and can make you sick.Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately.Why? Droplets spread virus. By following good respiratory hygiene you protect the people around you from viruses such as cold, flu and COVID 19.Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority.Why? National and local authorities will have the most up to date information on the situation in your area. Calling in advance will allow your health care provider to quickly direct you to the right health facility. This will also protect you and help prevent spread of viruses and other infections.Keep up to date on the latest COVID-19 hotspots (cities or local areas where COVID-19 is spreading widely). If possible, avoid traveling to places  â€“ especially if you are an older person or have diabetes, heart or lung disease.Why? You have a higher chance of catching COVID 19 in one of these areas"],
+         "context_set": ""
+        },
+        {"tag": "How likely am I to catch COVID-19?",
+         "patterns": ["How likely am I to catch COVID 19", "How likely am I to catch coronavirus", "effected by coronavirus"],
+         "responses": ["The risk depends on where you  are - and more specifically, whether there is a COVID-19 outbreak unfolding there.For most people in most locations the risk of catching COVID-19 is still low. However, there are now places around the world (cities or areas) where the disease is spreading. For people living in, or visiting, these areas the risk of catching COVID-19 is higher. Governments and health authorities are taking vigorous action every time a new case of COVID-19 is identified. Be sure to comply with any local restrictions on travel, movement or large gatherings. Cooperating with disease control efforts will reduce your risk of catching or spreading COVID-19.COVID-19 outbreaks can be contained and transmission stopped, as has been shown in China and some other countries. Unfortunately, new outbreaks can emerge rapidly. Itâ€™s important to be aware of the situation where you are or intend to go. WHO publishes daily updates on the COVID-19 situation worldwide."],
+         "context_set": ""
+        },
+        {"tag": "Should I worry about COVID-19",
+         "patterns": ["Should I worry about COVID 19", "Should I worry about coronavirus"],
+         "responses": ["Illness due to COVID-19 infection is generally mild, especially for children and young adults. However, it can cause serious illness: about 1 in every 5 people who catch it need hospital care. It is therefore quite normal for people to worry about how the COVID-19 outbreak will affect them and their loved ones.We can channel our concerns into actions to protect ourselves, our loved ones and our communities. First and foremost among these actions is regular and thorough hand-washing and good respiratory hygiene. Secondly, keep informed and follow the advice of the local health authorities including any restrictions put in place on travel, movement and gatherings.,"],
+         "context_set": ""
+        },
+        {"tag": "Are antibiotics effective in preventing or treating the COVID-19",
+         "patterns": ["antibiotics effective in preventing treating the COVID 19", "antibiotics effective in preventing treating the coronavirus", "antibiotic effective in coronavirus"],
+         "responses": ["No. Antibiotics do not work against viruses, they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection. "],
+         "context_set": ""
+        },
+        {"tag": "Are there any medicines or therapies that can prevent or cure COVID-19",
+         "patterns": ["Are there any medicines or therapies that can prevent or cure COVID 19", "Are there any medicines or therapies that can prevent or cure coronavirus"],
+         "responses": ["While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. WHO will continue to provide updated information as soon as clinical findings are available."],
+         "context_set": ""
+        },
+        {"tag": "virus mutates",
+         "patterns": ["What does it mean to say a virus mutates or changes?"],
+         "responses": ["When a virus replicates or makes copies of itself, it sometimes changes a little bit. These changes are called mutations. A virus with one or several new mutations is  referred to as a “variant” of the original virus. SARS-CoV-2, the virus which causes COVID-19, tends to change more slowly than others such as HIV or influenza viruses."],
+         "context_set": ""
+        },
+        {"tag": "changing",
+         "patterns": ["Should I be concerned about SARS-CoV-2 changing?"],
+         "responses": ["Most changes have little to no impact on the virus’ properties. However, depending on where the changes are located in the virus’s genetic material, they may affect the virus’s properties, such as transmission (for example, it may spread more easily) or severity (for example, it may cause more severe disease)."],
+         "context_set": ""
+        },
+        {"tag": "How can ventilation reduce the risk of contracting COVID-19 in airplanes",
+         "patterns": ["How can ventilation reduce the risk of contracting COVID-19 in airplanes?"],
+         "responses": ["Most airplanes have cabin air filtration systems equipped with HEPA filters which can remove viruses and germs quickly, minimizing how long people are exposed to any potential infectious virus or bacteria expelled by a cough or sneeze. Cabin air systems are designed to operate most efficiently by delivering approximately 50 percent outside air and 50 percent filtered, recirculated air. The air supply is essentially sterile and particle-free. However, adequate ventilation is just one of the preventive measures to reduce the risk of COVID-19 transmission."],
+         "context_set": ""
+        },
+        {"tag": "What is ventilation and how can it prevent COVID-19 from spreading",
+         "patterns": ["What is ventilation and how can it prevent COVID-19 from spreading?"],
+         "responses": ["Ventilation involves introducing clean air into a space while removing stale air, in order to maintain or improve air quality. Ventilation can be achieved naturally (e.g. by opening a window) or by installing a mechanical system."],
+         "context_set": ""
+        },
+        {"tag": "How do we know that COVID-19 vaccines are safe",
+         "patterns": ["How do we know that COVID-19 vaccines are safe?"],
+         "responses": ["Unprecedented scientific collaborations have allowed COVID-19 vaccine research, development, and authorizations to be completed in record time – to meet the urgent need for these vaccines while maintaining high safety standards. As with all vaccines, WHO and regulatory authorities will continuously monitor the use of COVID-19 vaccines to identify and respond to any safety issues that might arise, and through that process to assure they remain safe for use around the world."],
+         "context_set": ""
+        },
+        {"tag": "What are the side effects of COVID-19 vaccines",
+         "patterns": ["What are the side effects of COVID-19 vaccines?"],
+         "responses": ["Reported side effects to COVID-19 vaccines have mostly been mild to moderate and short-lasting. They include: fever, fatigue, headache, muscle pain, chills, diarrhoea, and pain at the injection site."],
+         "context_set": ""
+        },
+        {"tag": "What is the link between COVID-19 vaccines and allergic reactions",
+         "patterns": ["What is the link between COVID-19 vaccines and allergic reactions?"],
+         "responses": ["Severe allergic reactions have occurred rarely to some of the COVID vaccines. A severe allergic reaction – such as anaphylaxis – is a potential but rare side effect with any vaccine. In persons with a known risk, such as previous experience of an allergic reaction to a previous dose of the vaccine or any of the known components in the vaccine, precautions may need to be taken."],
+         "context_set": ""
+        },
+        {"tag": "Under what circumstances should a COVID-19 vaccine be recalled",
+         "patterns": ["Under what circumstances should a COVID-19 vaccine be recalled?"],
+         "responses": ["Vaccine recalls or withdrawals due to safety issues are rare. Recalls are usually initiated voluntarily by a vaccine manufacturer before any adverse events are reported. For example, ongoing monitoring of vaccine production may show that an irregularity has caused a batch of vaccines to lose their strength. In this case, people who have received a vaccine from that batch may need to be vaccinated again to ensure they are protected."],
+         "context_set": ""
+        },
+        {"tag": "Is it possible that someone vaccinated against COVID-19 will still get infected",
+         "patterns": ["Is it possible that someone vaccinated against COVID-19 will still get infected?"],
+         "responses": ["While COVID-19 vaccines have high levels of efficacy, especially against hospitalization and severe disease, no vaccine is 100% protective. As a result, there will be some small percentage of vaccinated people who fall ill with COVID-19 in spite of being vaccinated."],
+         "context_set": ""
+        },
+        {"tag": "Who should be excluded from receiving COVID-19 vaccines",
+         "patterns": ["Who should be excluded from receiving COVID-19 vaccines?"],
+         "responses": ["Medical professionals can best advise individuals on whether or not you should receive a COVID-19 vaccine. There are very few conditions that would exclude someone from being vaccinated. Based on available evidence, people with a history of severe allergic reactions to any ingredients of the COVID-19 vaccine should generally be excluded from COVID-19 vaccination in order to avoid possible adverse"],
+         "context_set": ""
+        },
+        {"tag": "Is it safe for pregnant women, those planning to become pregnant, and breastfeeding mothers to receive COVID-19 vaccines",
+         "patterns": ["Is it safe for pregnant women, those planning to become pregnant, and breastfeeding mothers to receive COVID-19 vaccines?"],
+         "responses": ["n the interim, WHO recommends that for pregnant women the use of the COVID-19 vaccine be considered on the basis of a benefit vs risk assessment. To help pregnant women make this assessment, they should be provided with information about the risks of COVID-19 in pregnancy, the likely benefits of vaccination in the local epidemiological context, and the current limitations of safety data in pregnant women. WHO does not recommend pregnancy testing prior to vaccination. WHO does not recommend delaying pregnancy or terminating pregnancy because of vaccination."],
+         "context_set": ""
+        },
+        {"tag": "Should women who are on their periods take the COVID-19 vaccine",
+         "patterns": ["Should women who are on their periods take the COVID-19 vaccine?"],
+         "responses": ["Women can receive a vaccine at any point in their menstrual cycle."],
+         "context_set": ""
+        },
+        {"tag": "Are COVID-19 vaccines safe for people living with HIV",
+         "patterns": ["Are COVID-19 vaccines safe for people living with HIV?"],
+         "responses": ["Many of the most advanced vaccines have included a small number of people living with HIV. Despite limited data, available information suggests COVID-19 vaccines for which WHO has issued recommendations, are safe for people living with HIV. The vaccines often include genetic material from SARS-CoV-2, but do not contain the whole virus, so the virus cannot replicate. As they are not live vaccines, they are not expected to be less safe in people who are immunocompromised.  No pharmacological interactions have been reported between COVID-19 vaccines and antiretroviral drugs; people living with HIV should continue to take antiretroviral therapy after vaccination, which maintains health and prevents onward HIV transmission. "],
+         "context_set": ""
+        },
+        {"tag": "Do COVID-19 vaccines provide protection for people living with HIV",
+         "patterns": ["Do COVID-19 vaccines provide protection for people living with HIV?"],
+         "responses": ["It is theoretically possible that people living with HIV with low CD4 cell counts might have a weaker immune response to a vaccine. However, in practice this has not been documented for other vaccines and there is no evidence to support a less robust immune response to COVID-19 vaccines among people with low CD4 cell counts."],
+         "context_set": ""
+        },
+        {"tag": "Is there a vaccine for COVID-19",
+         "patterns": ["Is there a vaccine for COVID-19?"],
+         "responses": ["Yes there are now several vaccines that are in use. The first mass vaccination programme started in early December 2020 and the number of vaccination doses administered is updated on a daily basis here. At least 13 different vaccines (across 4 platforms) have been administered."],
+         "context_set": ""
+        },
+        {"tag": "How quickly could COVID-19 vaccines stop the pandemic",
+         "patterns": ["How quickly could COVID-19 vaccines stop the pandemic?"],
+         "responses": ["The impact of COVID-19 vaccines on the pandemic will depend on several factors. These include the effectiveness of the vaccines; how quickly they are approved, manufactured, and delivered; the possible development of other variants and how many people get vaccinated"],
+         "context_set": ""
+        },
+        {"tag": "Will other vaccines help protect me from COVID-19",
+         "patterns": ["Will other vaccines help protect me from COVID-19?"],
+         "responses": ["Currently, there is no evidence that any other vaccines, apart from those specifically designed for the SARS-Cov-2 virus,  will protect against COVID-19."],
+         "context_set": ""
+        },
+        {"tag": "What are the benefits of getting vaccinated",
+         "patterns": ["What are the benefits of getting vaccinated?"],
+         "responses": ["The COVID-19 vaccines produce protection against the disease, as a result of developing an immune response to the SARS-Cov-2 virus.  Developing immunity through vaccination means there is a reduced risk of developing the  illness and its consequences. This immunity helps you fight the virus if exposed. Getting vaccinated may also protect people around you, because if you are protected from getting infected and from disease, you are less likely to infect someone else. This is particularly important to protect people at increased risk for severe illness from COVID-19, such as healthcare providers, older or elderly adults, and people with other medical conditions."],
+         "context_set": ""
+        },
+        {"tag": "Who should get the COVID-19 vaccines",
+         "patterns": ["Who should get the COVID-19 vaccines?"],
+         "responses": ["The COVID-19 vaccines are safe for most people 18 years and older, including those with pre-existing conditions of any kind, including auto-immune disorders. These conditions include: hypertension, diabetes, asthma, pulmonary, liver and kidney disease, as well as chronic infections that are stable and controlled. "],
+         "context_set": ""
+        },
+        {"tag": "Can we stop taking precautions after being vaccinated",
+         "patterns": ["Can we stop taking precautions after being vaccinated?"],
+         "responses": ["Vaccination protects you from getting seriously ill and dying from COVID-19. For the first fourteen days after getting a vaccination, you do not have significant levels of protection, then it increases gradually. For a single dose vaccine, immunity will generally occur two weeks after vaccination. For two-dose vaccines, both doses are needed to achieve the highest level of immunity possible. "],
+         "context_set": ""
+        },
+        {"tag": "Can I have the second dose with a different vaccine than the first dose",
+         "patterns": ["Can I have the second dose with a different vaccine than the first dose?"],
+         "responses": ["Clinical trials in some countries are looking at whether you can have a first dose from one vaccine and a second dose from a different vaccine. There isn't enough data yet to recommend this type of combination. "],
+         "context_set": ""
+        },
+        {"tag": "Should I be vaccinated if I have had COVID-19",
+         "patterns": ["Should I be vaccinated if I have had COVID-19?"],
+         "responses": ["Even if you have already had COVID-19, you should be vaccinated when it is offered to you. The protection that someone gains from having COVID-19 will vary from person to person, and we also don’t know how long natural immunity might last. "],
+         "context_set": ""
+        },
+        {"tag": "Is the vaccine safe for children",
+         "patterns": ["Is the vaccine safe for children?"],
+         "responses": ["Vaccines are usually tested in adults first, and only then assessed in children to because they are still developing and growing. COVID-19 has also been a more serious and dangerous disease among older populations. Now that the vaccines have been determined to be safe for adults, they are being studied in children."],
+         "context_set": ""
+        },
+        {"tag": "Do the vaccines protect against variants",
+         "patterns": ["Do the vaccines protect against variants?"],
+         "responses": ["More studies are needed to assess the effectiveness of the current COVID vaccines against the variants. A growing body of data suggests that most vaccines stimulate enough immunity to retain substantial efficacy against most variants, especially for severe disease, hospitalization, and death. The impact of the variants on efficacy against mild disease and against infection without disease is more impacted than for the more severe outcomes."],
+         "context_set": ""
+        },
+        {"tag": "How is the research and development process being accelerated without compromising safety",
+         "patterns": ["How is the research and development process being accelerated without compromising safety?"],
+         "responses": ["n the past, vaccines have been developed through a series of steps that can take many years. Now, given the urgent need for COVID-19 vaccines, unprecedented financial investments and scientific collaborations are changing how vaccines are developed. This means that some of the steps in the research and development process have been happening in parallel, while still maintaining strict clinical and safety standards. For example, some clinical trials are evaluating multiple vaccines at the same time. However, this does not make the studies any less rigorous."],
+         "context_set": ""
+        },
+        {"tag": "Are people with tuberculosis likely to be at increased risk of COVID-19 infection, illness and death",
+         "patterns": ["Are people with tuberculosis likely to be at increased risk of COVID-19 infection, illness and death?"],
+         "responses": ["While experience on COVID-19 infection in tuberculosis (TB) patients remains limited, it is anticipated that people ill with both TB and COVID-19 may have poorer treatment outcomes, especially if TB treatment is interrupted. Older age, diabetes and chronic obstructive pulmonary disease (COPD) are linked with more severe COVID-19 and are also risk factors for poor outcomes in TB. TB patients should take precautions as advised by health authorities to be protected from COVID-19 and continue their TB treatment as prescribed."],
+         "context_set": ""
+        },
+        {"tag": "Do COVID-19 and tuberculosis spread in the same way",
+         "patterns": ["Do COVID-19 and tuberculosis spread in the same way?"],
+         "responses": ["While both tuberculosis (TB) and COVID-19 spread by close contact between people the exact mode of transmission differs, explaining some differences in infection control measures to mitigate the two conditions."],
+         "context_set": ""
+        },
+        {"tag": "What precautions should I take during travel",
+         "patterns": ["What precautions should I take during travel?"],
+         "responses": ["During travel, everyone should clean hands frequently, cough or sneeze into a bent elbow or tissue, and try to maintain a physical distance of at least one metre from others. Travelers should follow the recommendations of the travel authorities regarding policies in the airport and of the airline for the flight."],
+         "context_set": ""
+        },
+        {"tag": "Who should not travel",
+         "patterns": ["Who should not travel?"],
+         "responses": ["People with confirmed diagnoses of COVID-19 cases should be in isolation and not traveling. Anyone who has had contact with someone else confirmed with COVID-19 cases should be in quarantine and not travel. People aged 60 and over, and those with serious chronic illnesses or underlying health conditions should try to postpone travel, or take special precautions and wear a medical face mask continuously throughout the travel. "],
+         "context_set": ""
+        },
+        {"tag": "What should I do if I get sick while traveling",
+         "patterns": ["What should I do if I get sick while traveling?"],
+         "responses": ["If you become ill during your travel, inform your travel attendant (plane, ship, train, etc.). You may be moved to a seat farther away from others."],
+         "context_set": ""
+        },
+        {"tag": "As a smoker, is my risk of getting the COVID-19 virus higher than that of a non-smoker",
+         "patterns": ["As a smoker, is my risk of getting the COVID-19 virus higher than that of a non-smoker?"],
+         "responses": ["At the time of preparing this Q&A, there are no peer-reviewed studies that have evaluated the risk of SARS-CoV-2 infection associated with smoking. However, tobacco smokers (cigarettes, waterpipes, bidis, cigars, heated tobacco products) may be more vulnerable to contracting COVID-19, as the act of smoking involves contact of fingers (and possibly contaminated cigarettes) with the lips, which increases the possibility of transmission of viruses from hand to mouth. Smoking waterpipes, also known as shisha or hookah, often involves the sharing of mouth pieces and hoses, which could facilitate the transmission of the COVID-19 virus in communal and social settings."],
+         "context_set": ""
+        },
+        {"tag": "As a smoker, am I likely to get more severe symptoms if infected",
+         "patterns": ["As a smoker, am I likely to get more severe symptoms if infected?"],
+         "responses": ["Smoking any kind of tobacco reduces lung capacity and increases the risk of many respiratory infections and can increase the severity of respiratory diseases. COVID-19 is an infectious disease that primarily attacks the lungs. Smoking impairs lung function making it harder for the body to fight off coronaviruses and other respiratory diseases.  Available research suggests that smokers are at higher risk of developing severe COVID-19 outcomes and death. "],
+         "context_set": ""
+        },
+        {"tag": "Does nicotine use affect my chances in the context of COVID-19",
+         "patterns": ["Does nicotine use affect my chances in the context of COVID-19?"],
+         "responses": ["There is currently insufficient information to confirm any link between tobacco or nicotine in the prevention or treatment of COVID-19. WHO urges researchers, scientists and the media to be cautious about amplifying unproven claims that tobacco or nicotine could reduce the risk of COVID-19. WHO is constantly evaluating new research, including that which examines the link between tobacco use, nicotine use, and COVID-19."],
+         "context_set": ""
+        },
+        {"tag": "What precautions should everyone take in a hotel or other accommodation establishment",
+         "patterns": ["What precautions should everyone take in a hotel or other accommodation establishment?"],
+         "responses": ["Wash all parts of your hands frequently (at least 20 seconds if using an alcohol-based hand rub, and at least 40 seconds with soap and water), including after exchanging objects such as money or credit cards. Look for hand sanitizer stations and use them before going into dining halls, restaurants or bars. Cover a cough or sneeze with a bent elbow or tissue, and throw away the tissue in a closed bin."],
+         "context_set": ""
+        },
+        {"tag": "Are pools and water areas safe to use",
+         "patterns": ["Are pools and water areas safe to use"],
+         "responses": ["Gym, beach, swimming pool, spa, sauna and steam bath facilities can be used safely with certain restrictions, as determined by national guidelines."],
+         "context_set": ""
+        },
+        {"tag": "Are there precautions to take while eating in a restaurant",
+         "patterns": ["Are there precautions to take while eating in a restaurant?"],
+         "responses": ["There is no evidence that the virus that causes COVID-19 is transmitted by food, including fresh fruits and vegetables. The virus can be killed while cooking food at temperatures of at least 70°C."],
+         "context_set": ""
+        },
+        {"tag": "Can you get the virus from people who were in the room previous to you",
+         "patterns": ["Can you get the virus from people who were in the room previous to you?"],
+         "responses": ["Hotels and other accommodations should have procedures for cleaning, disinfecting and ventilating the room properly between every guest’s stay. These processes allow the accommodations to be used immediately afterward. If these procedures are followed, there is no need to leave the room empty between guests."],
+         "context_set": ""
+        },
+        {"tag": "So how do I stay safe while exercising in COVID-19",
+         "patterns": ["So how do I stay safe while exercising in COVID-19?"],
+         "responses": ["Do not exercise if you have a fever, cough and difficulty breathing. Stay home and rest, seek medical attention and call in advance. Follow the directions of your local health authority."],
+         "context_set": ""
+        },
+        {"tag": "How are COVID-19 and influenza viruses similar",
+         "patterns": ["How are COVID-19 and influenza viruses similar?"],
+         "responses": ["Firstly, COVID-19 and influenza viruses have a similar disease presentation. That is, they both cause respiratory disease, which presents as a wide range of illness from asymptomatic or mild through to severe disease and death.Secondly, both viruses are transmitted by contact, droplets and fomites."],
+         "context_set": ""
+        },
+        {"tag": "How are COVID-19 and influenza viruses different",
+         "patterns": ["How are COVID-19 and influenza viruses different?"],
+         "responses": ["The speed of transmission is an important point of difference between the two viruses. Influenza has a shorter median incubation period (the time from infection to appearance of symptoms) and a shorter serial interval (the time between successive cases) than COVID-19 virus. The serial interval for COVID-19 virus is estimated to be 5-6 days, while for influenza virus, the serial interval is 3 days. This means that influenza can spread faster than COVID-19. "],
+         "context_set": ""
+        },
+        {"tag": "What medical interventions are available for COVID-19 and influenza viruses?",
+         "patterns": ["What medical interventions are available for COVID-19 and influenza viruses?"],
+         "responses": ["While there are a number of therapeutics currently in clinical trials in China and more than 20 vaccines in development for COVID-19, there are currently no licensed vaccines or therapeutics for COVID-19.  In contrast, antivirals and vaccines available for influenza. While the influenza vaccine is not effective against COVID-19 virus, it is highly recommended to get vaccinated each year to prevent influenza infection. "],
+         "context_set": ""
+        },
+        {"tag": "Amyotrophic Lateral Sclerosis",
+         "patterns": ["Impact of COVID-19 on Amyotrophic Lateral Sclerosis patients?"],
+         "responses": ["In patients with Amyotrophic Lateral Sclerosis (ALS), the impact of respiratory infections is expected to be more serious than in the general population, due to the weakness of the respiratory muscles and limitations in coughing (1-4). ALS patients with impaired respiratory function and/or rapid clinical deterioration are considered a high risk population for COVID-19"],
+         "context_set": ""
+        },
+        {"tag": "Recommendation for Amyotrophic Lateral Sclerosis",
+         "patterns": ["Recommendation for Amyotrophic Lateral Sclerosis?"],
+         "responses": ["Patients with ALS should be confined to their homes to prevent becoming infected.one principal carer should coordinate care provided to the patient. The principal carer should be someone who is always at home with the patient.If self sufficient but living alone without support, or if no carer is available although needed. In case of respiratory emergency, first call the neurologist and respiratory physician in charge to finalize the required intervention. "],
+         "context_set": ""
+        },
+        {"tag": "Dementia",
+         "patterns": ["Impact of COVID-19 on patients with Dementia"],
+         "responses": ["the evidence to date indicates that older adults with dementia have a high risk of contracting COVID-19 and, once infected, have a high risk of disease-related morbidity and mortality. This population is often the first to go into, and the last to come out of, strict and prolonged periods of isolation to prevent SARS-CoV-2 infection, yet is at extremely high risk of worsening neuropsychiatric symptoms and severe behavioural disturbance as a direct result. Therefore, during and after the pandemic, implementation of caregiver support and the presence of skilled nursing home staff are essential to maintain social interaction and to provide extra support to older adults with dementia."],
+         "context_set": ""
+        },
+        {"tag": "How does COVID-19 affect people with RA",
+         "patterns": ["How does COVID-19 affect people with RA?"],
+         "responses": ["According to the COVID-19 Global Rheumatology Alliance Global Registry, which supplies live-time information regarding rheumatic diseases and COVID-19, people with RA may be at higher risk for infection and developing severe symptoms. A person with RA who also has other risk factors, such as being over 65, living in a long-term care facility, or having another medical condition, may be at a higher risk for severe illness."],
+         "context_set": ""
+        },
+        {"tag": "Asthma",
+         "patterns": ["COVID-19 impact on patients with Asthma."],
+         "responses": ["The COVID-19 virus can be particularly troubling for those with asthma. It’s important for asthma sufferers to know that they are not at a higher risk for contracting coronavirus. However, people with asthma need to be especially diligent in protecting themselves from the virus through measures such as handwashing and staying away from those who are sick. Symptoms of COVID-19 may be more severe and may lead to poor outcomes for those with asthma. People with asthma need to continue taking their prescribed medications to prevent exacerbations of their asthma."],
+         "context_set": ""
+        },
+        {"tag": "How should people with Asthma wear masks.",
+         "patterns": ["How should people with Asthma wear masks."],
+         "responses": ["Guidelines for wearing a mask continue to evolve. While wearing a mask may not keep asthmatics from getting coronavirus, it is important that all individuals who have not been vaccinated wear masks in public to protect others. This includes people with asthma."],
+         "context_set": ""
+        },
+        {"tag": "What extra precautions should be taken by people with Asthma?",
+         "patterns": ["What extra precautions should be taken by people with Asthma?"],
+         "responses": ["There are simple precautions Dr. Wechsler strongly suggests taking to avoid contracting coronavirus. “I’m telling my patients to avoid crowds and people who are sick and to eliminate all nonessential contact with people. They should also wash their hands frequently.” Data also suggest that COVID-19 can survive on surfaces, such as plastic and metal for up to 72 hours. Clean surfaces frequently and use caution before and after contact."],
+         "context_set": ""
+        },
+        {"tag": "COVID-19 (Coronavirus) & Cystic Fibrosis ",
+         "patterns": ["What is the effect of COVID-19 (Coronavirus) on Cystic Fibrosis "],
+         "responses": ["People with cystic fibrosis (CF) may have anxiety about their health during the COVID-19 pandemic. However, there isn’t any evidence to suggest that those with CF are more likely to contract COVID-19. Cystic fibrosis patients are used to social distancing and taking extra precautions to keep from getting sick. In fact, these habits may be the reason that fewer than expected cystic fibrosis patients have reported contracting COVID-19."],
+         "context_set": ""
+        },
+        {"tag": "Routine Care for Cystic Fibrosis during COVID-19",
+         "patterns": ["Routine Care for Cystic Fibrosis during COVID-19"],
+         "responses": ["The COVID-19 pandemic has made getting treatment for cystic fibrosis at health care centers harder. The Cystic Fibrosis Foundation recommends that patients see their doctors quarterly for an in depth checkup. "],
+         "context_set": ""
+        },
+        {"tag": "COVID-19 (Coronavirus) & Cancer",
+         "patterns": ["COVID-19 (Coronavirus) & Cancer"],
+         "responses": ["For patients with cancer, taking precautionary steps to avoid illnesses like coronavirus should be a habit. Patients with cancer have lowered immune systems due to treatment or to the cancer itself, so contracting COVID-19 or other illnesses can be dangerous. It is more important than ever before for those with and without cancer to minimize the risk of contracting or spreading illnesses because of the coronavirus."],
+         "context_set": ""
+        },
+        {"tag": "COVID-19 (Coronavirus) & COPD",
+         "patterns": ["COVID-19 (Coronavirus) & COPD"],
+         "responses": ["As a COPD patient, you take daily steps to maintain your health and lung function. The coronavirus pandemic can cause concern and stress about your ability to stay healthy because you are at a higher risk of contracting COVID-19. However, there are ways to help minimize your risk of contracting the virus and stay on top of your well-being as a COPD patient."],
+         "context_set": ""
+        },
+        {"tag": "COVID-19 (Coronavirus) and Diabetes",
+         "patterns": ["COVID-19 (Coronavirus) and Diabetes"],
+         "responses": ["Living with diabetes has its challenges and the COVID-19 pandemic can cause worry and stress. It’s important to note that being diabetic does not increase your risk of contracting coronavirus. Diabetics do, however, have a harder time fighting off infections like the viral infection caused by COVID-19 if your diabetes is not well-managed."],
+         "context_set": ""
+        }
+]
+}
